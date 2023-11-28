@@ -6,3 +6,27 @@ body{
     background-position: center center;
     background-size: cover;
 }   
+.section-dos .uno{
+    width: 300px;
+    height: 350px;
+    border: 2px solid #000;
+    background:linear-gradient(0deg, rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../assets/img1.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.section-dos .dos{
+    width: 300px;
+    height: 350px;
+    border: 2px solid #000;
+    background:linear-gradient(0deg, rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../assets/img2.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.section-dos .tres{
+    width: 300px;
+    height: 350px;
+    border: 2px solid #000;
+    background:linear-gradient(0deg, rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../assets/img3.jpg);
+    background-position: center center;
+    background-size: cover;
+}
