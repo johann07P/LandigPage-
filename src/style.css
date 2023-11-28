@@ -1,0 +1,8 @@
+body{
+    font-family: monospace;
+}
+.section-uno{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../assets/principal.jpg);
+    background-position: center center;
+    background-size: cover;
+}   
