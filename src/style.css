@@ -1,6 +1,3 @@
-body{
-    font-family: monospace;
-}
 .section-uno{
     background-image: linear-gradient(0deg, rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../assets/principal.jpg);
     background-position: center center;
@@ -27,6 +24,11 @@ body{
     height: 350px;
     border: 2px solid #000;
     background:linear-gradient(0deg, rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../assets/img3.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.section-cuatro{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../assets/final.jpg);
     background-position: center center;
     background-size: cover;
 }

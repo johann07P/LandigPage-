@@ -8,6 +8,7 @@ module.exports = {
       },
       translate: {
         '4.25': '-50%',
+        '5.2': '-3px'
       }
     },
   },
